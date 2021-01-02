@@ -11,6 +11,7 @@ public class LicensingServiceApplication {
 		SpringApplication.run(LicensingServiceApplication.class, args);
 	//	ServiceConfig sc = new ServiceConfig();	
 		//sc.getExampleProperty();
+		
 	}
 
 }
